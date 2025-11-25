@@ -22,6 +22,10 @@ A full-stack ticket booking platform inspired by BookMyShow. Users can explore m
 cd backend
 npm install
 
+## Database
+Create a database (bookmyshow)
+seed data from backend/data folder
+
 ## Create .env
 PORT=5000
 MONGO_URI=<your-mongodb-atlas-uri>
