@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Arijit Singh Live Concert",
+        "description": "An evening of soulful music with Arijit Singh performing his biggest hits.",
+        "category": "Concert",
+        "city": "Mumbai",
+        "venue": "PVR Phoenix Marketcity",
+        "date": "2025-02-10",
+        "posterUrl": "https://example.com/images/events/arijit-mumbai.jpg"
+    },
+    {
+        "name": "Standup Comedy Night with Zakir Khan",
+        "description": "A hilarious standup comedy special by Zakir Khan.",
+        "category": "Comedy",
+        "city": "Delhi",
+        "venue": "PVR Select City Walk",
+        "date": "2025-02-14",
+        "posterUrl": "https://example.com/images/events/zakir-delhi.jpg"
+    },
+    {
+        "name": "IPL Fan Fest",
+        "description": "Live screening of IPL match with DJ, food and games.",
+        "category": "Sports Screening",
+        "city": "Hyderabad",
+        "venue": "PVR Forum Sujana",
+        "date": "2025-03-01",
+        "posterUrl": "https://example.com/images/events/ipl-hyd.jpg"
+    },
+    {
+        "name": "Classical Music Evening",
+        "description": "An intimate evening of Indian classical music.",
+        "category": "Music",
+        "city": "Chennai",
+        "venue": "SPI Sathyam Cinemas",
+        "date": "2025-03-09",
+        "posterUrl": "https://example.com/images/events/classical-chn.jpg"
+    },
+    {
+        "name": "Kids Magic Show",
+        "description": "A fun-filled magic show for kids and families.",
+        "category": "Kids",
+        "city": "Bengaluru",
+        "venue": "PVR Orion Mall",
+        "date": "2025-03-20",
+        "posterUrl": "https://example.com/images/events/magic-blr.jpg"
+    }
+]

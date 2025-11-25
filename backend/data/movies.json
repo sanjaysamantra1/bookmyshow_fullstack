@@ -1,0 +1,261 @@
+[
+    {
+        "title": "Baahubali: The Beginning",
+        "description": "A brave warrior sets out to discover his true legacy and claim his throne.",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "language": [
+            "Hindi",
+            "Telugu",
+            "Tamil",
+            "Malayalam"
+        ],
+        "format": [
+            "2D",
+            "3D",
+            "IMAX"
+        ],
+        "durationMins": 159,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Baahubali_The_Beginning_poster.jpg",
+        "city": [
+            "Mumbai",
+            "Hyderabad",
+            "Bengaluru",
+            "Delhi"
+        ]
+    },
+    {
+        "title": "Baahubali 2: The Conclusion",
+        "description": "Mahendra Baahubali seeks justice and fights to reclaim the empire.",
+        "genre": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "language": [
+            "Hindi",
+            "Telugu",
+            "Tamil",
+            "Malayalam"
+        ],
+        "format": [
+            "2D",
+            "3D",
+            "IMAX"
+        ],
+        "durationMins": 171,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_2_The_Conclusion_poster.jpg",
+        "city": [
+            "Hyderabad",
+            "Chennai",
+            "Kochi",
+            "Mumbai"
+        ]
+    },
+    {
+        "title": "RRR",
+        "description": "Two legendary revolutionaries fight against the British Raj.",
+        "genre": [
+            "Action",
+            "Drama",
+            "Historical"
+        ],
+        "language": [
+            "Hindi",
+            "Telugu",
+            "Tamil",
+            "Kannada"
+        ],
+        "format": [
+            "2D",
+            "IMAX"
+        ],
+        "durationMins": 182,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+        "city": [
+            "Hyderabad",
+            "Delhi",
+            "Bengaluru",
+            "Mumbai"
+        ]
+    },
+    {
+        "title": "K.G.F: Chapter 1",
+        "description": "A boy rises from poverty to become a feared underworld ruler.",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "language": [
+            "Kannada",
+            "Hindi",
+            "Tamil",
+            "Telugu"
+        ],
+        "format": [
+            "2D"
+        ],
+        "durationMins": 156,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/K.G.F_Chapter_1.jpg",
+        "city": [
+            "Bengaluru",
+            "Hyderabad",
+            "Chennai"
+        ]
+    },
+    {
+        "title": "K.G.F: Chapter 2",
+        "description": "The fight for power continues as Rocky battles for dominance.",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "language": [
+            "Kannada",
+            "Hindi",
+            "Tamil",
+            "Telugu"
+        ],
+        "format": [
+            "2D",
+            "IMAX"
+        ],
+        "durationMins": 168,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/K.G.F_Chapter_2.jpg",
+        "city": [
+            "Bengaluru",
+            "Hyderabad",
+            "Mumbai",
+            "Pune"
+        ]
+    },
+    {
+        "title": "Leo",
+        "description": "A bakery owner is pushed into violence when his past resurfaces.",
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "language": [
+            "Tamil",
+            "Telugu",
+            "Hindi"
+        ],
+        "format": [
+            "2D"
+        ],
+        "durationMins": 164,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/Leo_2023_poster.jpg",
+        "city": [
+            "Chennai",
+            "Hyderabad",
+            "Kochi"
+        ]
+    },
+    {
+        "title": "Jawan",
+        "description": "An enigmatic vigilante fights corruption and saves the nation.",
+        "genre": [
+            "Action"
+        ],
+        "language": [
+            "Hindi",
+            "Tamil",
+            "Telugu"
+        ],
+        "format": [
+            "2D",
+            "IMAX"
+        ],
+        "durationMins": 169,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+        "city": [
+            "Delhi",
+            "Mumbai",
+            "Pune",
+            "Hyderabad"
+        ]
+    },
+    {
+        "title": "Pathaan",
+        "description": "An exiled RAW agent fights to save India from a deadly attack.",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "language": [
+            "Hindi",
+            "Tamil",
+            "Telugu"
+        ],
+        "format": [
+            "2D",
+            "IMAX"
+        ],
+        "durationMins": 146,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+        "city": [
+            "Mumbai",
+            "Delhi",
+            "Chandigarh"
+        ]
+    },
+    {
+        "title": "Salaar",
+        "description": "A violent man protects his childhood friend in a war-torn city.",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "language": [
+            "Telugu",
+            "Hindi",
+            "Tamil",
+            "Kannada"
+        ],
+        "format": [
+            "2D"
+        ],
+        "durationMins": 175,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Salaar_poster.jpg",
+        "city": [
+            "Hyderabad",
+            "Bengaluru",
+            "Chennai"
+        ]
+    },
+    {
+        "title": "Dhoom 3",
+        "description": "A circus magician seeks revenge while being hunted by detectives.",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "language": [
+            "Hindi"
+        ],
+        "format": [
+            "2D",
+            "IMAX"
+        ],
+        "durationMins": 172,
+        "certificate": "UA",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/Dhoom_3_Film_Poster.jpg",
+        "city": [
+            "Mumbai",
+            "Delhi",
+            "Pune"
+        ]
+    }
+]
